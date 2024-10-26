@@ -14,4 +14,10 @@ This repository includes logos and pictures.
 
 ## Fonts
 
-[Manrope 3](https://github.com/sharanda/manrope)
+- [Manrope](https://www.gent.media/manrope)
+- [Inter](https://rsms.me/inter/)
+
+## Photos
+
+- 2019: https://www.flickr.com/photos/boyaconf/albums/72157711769306316/
+- 2024: TBD
